@@ -1,1 +1,1 @@
-
+log("Console log");
