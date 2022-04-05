@@ -4,5 +4,5 @@
 
 ![copy](https://github.com/developerarunjena/learning-git/images/maxresdefault.jpg?raw=true)
 
-![copy](https://github.com/developerarunjena/learning-git/images/employee.png?raw=true "Employee Data title")
+![copy](learning-git/images/employee.png?raw=true "Employee Data title")
 
